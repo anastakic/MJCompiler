@@ -1,0 +1,31 @@
+
+======================== SINTAKSNE GRESKE: =========================
+
+
+======================== SEMANTICKE GRESKE: ========================
+
+ERROR - Greska na liniji 0, break naredba je izvan for petlje!
+ERROR - Greska na liniji 0, continue naredba je izvan for petlje!
+ERROR - Greska na liniji 15, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 16, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 17, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 18, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 22, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 23, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 25, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 26, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 28, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 29, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 31, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 32, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 35, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 36, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 45, nije int tip unutar uglastih zagrada: 
+ERROR - Greska na liniji 45, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 46, nije int tip unutar uglastih zagrada: 
+ERROR - Greska na liniji 46, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 49, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 50, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 52, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 53, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 54, nekompatibilni tipovi u dodeli vrednosti!

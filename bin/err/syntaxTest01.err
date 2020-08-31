@@ -1,0 +1,9 @@
+
+======================== SINTAKSNE GRESKE: =========================
+
+ERROR - Sintaksna greska na liniji 12
+ERROR - Uspesan oporavak od greske u logickom izrazu unutar for petlje! 
+
+======================== SEMANTICKE GRESKE: ========================
+
+ERROR - Greska na liniji 5, funkcija: inkrement nema return iskaz!

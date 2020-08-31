@@ -1,0 +1,19 @@
+
+======================== SINTAKSNE GRESKE: =========================
+
+
+======================== SEMANTICKE GRESKE: ========================
+
+ERROR - Greska na liniji 36, veci broj parametara od potrebnog za poziv funkcije: f1
+ERROR - Greska na liniji 42, nekompatibilni parametri a na liniji 42
+ERROR - Greska na liniji 43, nekompatibilni parametri a na liniji 43
+ERROR - Greska na liniji 44, nekompatibilni parametri a na liniji 44
+ERROR - Greska na liniji 49, nekompatibilni parametri c na liniji 49
+ERROR - Greska na liniji 50, nekompatibilni parametri c na liniji 50
+ERROR - Greska na liniji 51, nekompatibilni parametri c na liniji 51
+ERROR - Greska na liniji 55, nekompatibilni parametri b na liniji 55
+ERROR - Greska na liniji 56, nekompatibilni parametri b na liniji 56
+ERROR - Greska na liniji 57, nekompatibilni parametri b na liniji 57
+ERROR - Greska na liniji 59, nekompatibilni parametri a
+ERROR - Greska na liniji 60, nekompatibilni parametri a
+ERROR - Greska na liniji 61, nekompatibilni parametri a

@@ -1,0 +1,633 @@
+INFO  23:00:33,490 - Compiling source file: C:\Users\Ana\Desktop\PP1 projekat\workspace\MJCompiler\test\aaa.mj
+INFO  23:00:33,546 - #2 program
+INFO  23:00:33,546 - #43 ppp
+INFO  23:00:33,546 - #3 {
+INFO  23:00:33,546 - #13 void
+INFO  23:00:33,547 - #43 main
+INFO  23:00:33,547 - #6 (
+INFO  23:00:33,547 - #7 )
+INFO  23:00:33,548 - #43 int
+INFO  23:00:33,548 - #43 k
+INFO  23:00:33,550 - #8 ,
+INFO  23:00:33,550 - #43 niz
+INFO  23:00:33,550 - #35 [
+INFO  23:00:33,550 - #36 ]
+INFO  23:00:33,550 - #8 ,
+INFO  23:00:33,551 - #43 i
+INFO  23:00:33,551 - #8 ,
+INFO  23:00:33,551 - #43 x
+INFO  23:00:33,551 - #5 ;
+INFO  23:00:33,551 - #3 {
+INFO  23:00:33,552 - #43 niz
+INFO  23:00:33,552 - #12 =
+INFO  23:00:33,554 - #19 new
+INFO  23:00:33,556 - #43 int
+INFO  23:00:33,556 - #35 [
+INFO  23:00:33,556 - #42 5
+INFO  23:00:33,556 - #36 ]
+INFO  23:00:33,558 - #5 ;
+INFO  23:00:33,558 - #43 niz
+INFO  23:00:33,558 - #35 [
+INFO  23:00:33,558 - #42 0
+INFO  23:00:33,558 - #36 ]
+INFO  23:00:33,559 - #12 =
+INFO  23:00:33,559 - #42 2
+INFO  23:00:33,559 - #5 ;
+INFO  23:00:33,559 - #43 niz
+INFO  23:00:33,559 - #35 [
+INFO  23:00:33,559 - #42 1
+INFO  23:00:33,559 - #36 ]
+INFO  23:00:33,559 - #12 =
+INFO  23:00:33,559 - #42 3
+INFO  23:00:33,559 - #5 ;
+INFO  23:00:33,559 - #43 niz
+INFO  23:00:33,560 - #35 [
+INFO  23:00:33,560 - #42 2
+INFO  23:00:33,560 - #36 ]
+INFO  23:00:33,560 - #12 =
+INFO  23:00:33,560 - #42 5
+INFO  23:00:33,560 - #5 ;
+INFO  23:00:33,560 - #43 niz
+INFO  23:00:33,560 - #35 [
+INFO  23:00:33,560 - #42 3
+INFO  23:00:33,561 - #36 ]
+INFO  23:00:33,561 - #12 =
+INFO  23:00:33,561 - #42 6
+INFO  23:00:33,561 - #5 ;
+INFO  23:00:33,561 - #43 niz
+INFO  23:00:33,561 - #35 [
+INFO  23:00:33,561 - #42 4
+INFO  23:00:33,561 - #36 ]
+INFO  23:00:33,561 - #12 =
+INFO  23:00:33,562 - #42 8
+INFO  23:00:33,562 - #5 ;
+INFO  23:00:33,562 - #43 x
+INFO  23:00:33,562 - #12 =
+INFO  23:00:33,562 - #42 2
+INFO  23:00:33,562 - #5 ;
+INFO  23:00:33,563 - #43 niz
+INFO  23:00:33,563 - #48 @
+INFO  23:00:33,563 - #43 x
+INFO  23:00:33,563 - #5 ;
+INFO  23:00:33,563 - #16 for
+INFO  23:00:33,563 - #6 (
+INFO  23:00:33,563 - #43 i
+INFO  23:00:33,563 - #12 =
+INFO  23:00:33,564 - #42 0
+INFO  23:00:33,564 - #5 ;
+INFO  23:00:33,564 - #43 i
+INFO  23:00:33,564 - #29 <
+INFO  23:00:33,564 - #43 len
+INFO  23:00:33,565 - #6 (
+INFO  23:00:33,566 - #43 niz
+INFO  23:00:33,566 - #7 )
+INFO  23:00:33,567 - #5 ;
+INFO  23:00:33,568 - #43 i
+INFO  23:00:33,568 - #33 ++
+INFO  23:00:33,569 - #7 )
+INFO  23:00:33,569 - #3 {
+INFO  23:00:33,570 - #9 print
+INFO  23:00:33,571 - #6 (
+INFO  23:00:33,571 - #43 niz
+INFO  23:00:33,571 - #35 [
+INFO  23:00:33,571 - #43 i
+INFO  23:00:33,571 - #36 ]
+INFO  23:00:33,571 - #7 )
+INFO  23:00:33,571 - #5 ;
+INFO  23:00:33,572 - #4 }
+INFO  23:00:33,572 - #4 }
+INFO  23:00:33,573 - #4 }
+INFO  23:00:33,581 - Program(
+  ProgName(
+   ppp
+  ) [ProgName]
+  NoDeclListClass(
+  ) [NoDeclListClass]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDeclClass(
+      MethodTypeNameWithVoid(
+       main
+      ) [MethodTypeNameWithVoid]
+      NoFormParam(
+      ) [NoFormParam]
+      VarDeclListClass(
+        NoVarDeclList(
+        ) [NoVarDeclList]
+        SingleVarDecls(
+          TypeVar(
+            Type(
+             int
+            ) [Type]
+          ) [TypeVar]
+          VarListClass(
+            VarListClass(
+              VarListClass(
+                SingleVarClass(
+                  VardClass(
+                   k
+                  ) [VardClass]
+                ) [SingleVarClass]
+                VardClassSquares(
+                 niz
+                ) [VardClassSquares]
+              ) [VarListClass]
+              VardClass(
+               i
+              ) [VardClass]
+            ) [VarListClass]
+            VardClass(
+             x
+            ) [VardClass]
+          ) [VarListClass]
+        ) [SingleVarDecls]
+      ) [VarDeclListClass]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    Statements(
+                      Statements(
+                        NoStmt(
+                        ) [NoStmt]
+                        DesignatorStmt(
+                          DesignatorStmtAssign(
+                            Assign(
+                              Designator(
+                                DesignatorName(
+                                 niz
+                                ) [DesignatorName]
+                                NoDesignatorSufixList(
+                                ) [NoDesignatorSufixList]
+                              ) [Designator]
+                              ExprNoMinus(
+                                Term(
+                                  NewFactSquare(
+                                    Type(
+                                     int
+                                    ) [Type]
+                                    ExprNoMinus(
+                                      Term(
+                                        NumFact(
+                                         5
+                                        ) [NumFact]
+                                        NoMulopFactorList(
+                                        ) [NoMulopFactorList]
+                                      ) [Term]
+                                      NoAddopTermList(
+                                      ) [NoAddopTermList]
+                                    ) [ExprNoMinus]
+                                  ) [NewFactSquare]
+                                  NoMulopFactorList(
+                                  ) [NoMulopFactorList]
+                                ) [Term]
+                                NoAddopTermList(
+                                ) [NoAddopTermList]
+                              ) [ExprNoMinus]
+                            ) [Assign]
+                          ) [DesignatorStmtAssign]
+                        ) [DesignatorStmt]
+                      ) [Statements]
+                      DesignatorStmt(
+                        DesignatorStmtAssign(
+                          Assign(
+                            Designator(
+                              DesignatorName(
+                               niz
+                              ) [DesignatorName]
+                              DesignatorSufixListClass(
+                                DesignatorSufixSquare(
+                                  ExprNoMinus(
+                                    Term(
+                                      NumFact(
+                                       0
+                                      ) [NumFact]
+                                      NoMulopFactorList(
+                                      ) [NoMulopFactorList]
+                                    ) [Term]
+                                    NoAddopTermList(
+                                    ) [NoAddopTermList]
+                                  ) [ExprNoMinus]
+                                ) [DesignatorSufixSquare]
+                                NoDesignatorSufixList(
+                                ) [NoDesignatorSufixList]
+                              ) [DesignatorSufixListClass]
+                            ) [Designator]
+                            ExprNoMinus(
+                              Term(
+                                NumFact(
+                                 2
+                                ) [NumFact]
+                                NoMulopFactorList(
+                                ) [NoMulopFactorList]
+                              ) [Term]
+                              NoAddopTermList(
+                              ) [NoAddopTermList]
+                            ) [ExprNoMinus]
+                          ) [Assign]
+                        ) [DesignatorStmtAssign]
+                      ) [DesignatorStmt]
+                    ) [Statements]
+                    DesignatorStmt(
+                      DesignatorStmtAssign(
+                        Assign(
+                          Designator(
+                            DesignatorName(
+                             niz
+                            ) [DesignatorName]
+                            DesignatorSufixListClass(
+                              DesignatorSufixSquare(
+                                ExprNoMinus(
+                                  Term(
+                                    NumFact(
+                                     1
+                                    ) [NumFact]
+                                    NoMulopFactorList(
+                                    ) [NoMulopFactorList]
+                                  ) [Term]
+                                  NoAddopTermList(
+                                  ) [NoAddopTermList]
+                                ) [ExprNoMinus]
+                              ) [DesignatorSufixSquare]
+                              NoDesignatorSufixList(
+                              ) [NoDesignatorSufixList]
+                            ) [DesignatorSufixListClass]
+                          ) [Designator]
+                          ExprNoMinus(
+                            Term(
+                              NumFact(
+                               3
+                              ) [NumFact]
+                              NoMulopFactorList(
+                              ) [NoMulopFactorList]
+                            ) [Term]
+                            NoAddopTermList(
+                            ) [NoAddopTermList]
+                          ) [ExprNoMinus]
+                        ) [Assign]
+                      ) [DesignatorStmtAssign]
+                    ) [DesignatorStmt]
+                  ) [Statements]
+                  DesignatorStmt(
+                    DesignatorStmtAssign(
+                      Assign(
+                        Designator(
+                          DesignatorName(
+                           niz
+                          ) [DesignatorName]
+                          DesignatorSufixListClass(
+                            DesignatorSufixSquare(
+                              ExprNoMinus(
+                                Term(
+                                  NumFact(
+                                   2
+                                  ) [NumFact]
+                                  NoMulopFactorList(
+                                  ) [NoMulopFactorList]
+                                ) [Term]
+                                NoAddopTermList(
+                                ) [NoAddopTermList]
+                              ) [ExprNoMinus]
+                            ) [DesignatorSufixSquare]
+                            NoDesignatorSufixList(
+                            ) [NoDesignatorSufixList]
+                          ) [DesignatorSufixListClass]
+                        ) [Designator]
+                        ExprNoMinus(
+                          Term(
+                            NumFact(
+                             5
+                            ) [NumFact]
+                            NoMulopFactorList(
+                            ) [NoMulopFactorList]
+                          ) [Term]
+                          NoAddopTermList(
+                          ) [NoAddopTermList]
+                        ) [ExprNoMinus]
+                      ) [Assign]
+                    ) [DesignatorStmtAssign]
+                  ) [DesignatorStmt]
+                ) [Statements]
+                DesignatorStmt(
+                  DesignatorStmtAssign(
+                    Assign(
+                      Designator(
+                        DesignatorName(
+                         niz
+                        ) [DesignatorName]
+                        DesignatorSufixListClass(
+                          DesignatorSufixSquare(
+                            ExprNoMinus(
+                              Term(
+                                NumFact(
+                                 3
+                                ) [NumFact]
+                                NoMulopFactorList(
+                                ) [NoMulopFactorList]
+                              ) [Term]
+                              NoAddopTermList(
+                              ) [NoAddopTermList]
+                            ) [ExprNoMinus]
+                          ) [DesignatorSufixSquare]
+                          NoDesignatorSufixList(
+                          ) [NoDesignatorSufixList]
+                        ) [DesignatorSufixListClass]
+                      ) [Designator]
+                      ExprNoMinus(
+                        Term(
+                          NumFact(
+                           6
+                          ) [NumFact]
+                          NoMulopFactorList(
+                          ) [NoMulopFactorList]
+                        ) [Term]
+                        NoAddopTermList(
+                        ) [NoAddopTermList]
+                      ) [ExprNoMinus]
+                    ) [Assign]
+                  ) [DesignatorStmtAssign]
+                ) [DesignatorStmt]
+              ) [Statements]
+              DesignatorStmt(
+                DesignatorStmtAssign(
+                  Assign(
+                    Designator(
+                      DesignatorName(
+                       niz
+                      ) [DesignatorName]
+                      DesignatorSufixListClass(
+                        DesignatorSufixSquare(
+                          ExprNoMinus(
+                            Term(
+                              NumFact(
+                               4
+                              ) [NumFact]
+                              NoMulopFactorList(
+                              ) [NoMulopFactorList]
+                            ) [Term]
+                            NoAddopTermList(
+                            ) [NoAddopTermList]
+                          ) [ExprNoMinus]
+                        ) [DesignatorSufixSquare]
+                        NoDesignatorSufixList(
+                        ) [NoDesignatorSufixList]
+                      ) [DesignatorSufixListClass]
+                    ) [Designator]
+                    ExprNoMinus(
+                      Term(
+                        NumFact(
+                         8
+                        ) [NumFact]
+                        NoMulopFactorList(
+                        ) [NoMulopFactorList]
+                      ) [Term]
+                      NoAddopTermList(
+                      ) [NoAddopTermList]
+                    ) [ExprNoMinus]
+                  ) [Assign]
+                ) [DesignatorStmtAssign]
+              ) [DesignatorStmt]
+            ) [Statements]
+            DesignatorStmt(
+              DesignatorStmtAssign(
+                Assign(
+                  Designator(
+                    DesignatorName(
+                     x
+                    ) [DesignatorName]
+                    NoDesignatorSufixList(
+                    ) [NoDesignatorSufixList]
+                  ) [Designator]
+                  ExprNoMinus(
+                    Term(
+                      NumFact(
+                       2
+                      ) [NumFact]
+                      NoMulopFactorList(
+                      ) [NoMulopFactorList]
+                    ) [Term]
+                    NoAddopTermList(
+                    ) [NoAddopTermList]
+                  ) [ExprNoMinus]
+                ) [Assign]
+              ) [DesignatorStmtAssign]
+            ) [DesignatorStmt]
+          ) [Statements]
+          DesignatorStmt(
+            DesignatorStmtModif(
+              Designator(
+                DesignatorName(
+                 niz
+                ) [DesignatorName]
+                NoDesignatorSufixList(
+                ) [NoDesignatorSufixList]
+              ) [Designator]
+              DesignatorFact(
+                Designator(
+                  DesignatorName(
+                   x
+                  ) [DesignatorName]
+                  NoDesignatorSufixList(
+                  ) [NoDesignatorSufixList]
+                ) [Designator]
+              ) [DesignatorFact]
+            ) [DesignatorStmtModif]
+          ) [DesignatorStmt]
+        ) [Statements]
+        ForStmt(
+          ForStatement(
+            ForHeader(
+              DesignatorStmtOpt(
+                DesignatorStmtAssign(
+                  Assign(
+                    Designator(
+                      DesignatorName(
+                       i
+                      ) [DesignatorName]
+                      NoDesignatorSufixList(
+                      ) [NoDesignatorSufixList]
+                    ) [Designator]
+                    ExprNoMinus(
+                      Term(
+                        NumFact(
+                         0
+                        ) [NumFact]
+                        NoMulopFactorList(
+                        ) [NoMulopFactorList]
+                      ) [Term]
+                      NoAddopTermList(
+                      ) [NoAddopTermList]
+                    ) [ExprNoMinus]
+                  ) [Assign]
+                ) [DesignatorStmtAssign]
+              ) [DesignatorStmtOpt]
+              ConditionOptClass(
+                ConditionNode(
+                  CondTermNode(
+                    CondFactExprRelopExpr(
+                      ExprNoMinus(
+                        Term(
+                          DesignatorFact(
+                            Designator(
+                              DesignatorName(
+                               i
+                              ) [DesignatorName]
+                              NoDesignatorSufixList(
+                              ) [NoDesignatorSufixList]
+                            ) [Designator]
+                          ) [DesignatorFact]
+                          NoMulopFactorList(
+                          ) [NoMulopFactorList]
+                        ) [Term]
+                        NoAddopTermList(
+                        ) [NoAddopTermList]
+                      ) [ExprNoMinus]
+                      Lt(
+                      ) [Lt]
+                      ExprNoMinus(
+                        Term(
+                          FactorFuncCall(
+                            FuncName(
+                              Designator(
+                                DesignatorName(
+                                 len
+                                ) [DesignatorName]
+                                NoDesignatorSufixList(
+                                ) [NoDesignatorSufixList]
+                              ) [Designator]
+                            ) [FuncName]
+                            ActParsOptClass(
+                              ActPars(
+                                SingleExpr(
+                                  ExprNoMinus(
+                                    Term(
+                                      DesignatorFact(
+                                        Designator(
+                                          DesignatorName(
+                                           niz
+                                          ) [DesignatorName]
+                                          NoDesignatorSufixList(
+                                          ) [NoDesignatorSufixList]
+                                        ) [Designator]
+                                      ) [DesignatorFact]
+                                      NoMulopFactorList(
+                                      ) [NoMulopFactorList]
+                                    ) [Term]
+                                    NoAddopTermList(
+                                    ) [NoAddopTermList]
+                                  ) [ExprNoMinus]
+                                ) [SingleExpr]
+                              ) [ActPars]
+                            ) [ActParsOptClass]
+                          ) [FactorFuncCall]
+                          NoMulopFactorList(
+                          ) [NoMulopFactorList]
+                        ) [Term]
+                        NoAddopTermList(
+                        ) [NoAddopTermList]
+                      ) [ExprNoMinus]
+                    ) [CondFactExprRelopExpr]
+                  ) [CondTermNode]
+                ) [ConditionNode]
+              ) [ConditionOptClass]
+              DesignatorStmtOpt(
+                DesignatorStmtPlus2(
+                  Designator(
+                    DesignatorName(
+                     i
+                    ) [DesignatorName]
+                    NoDesignatorSufixList(
+                    ) [NoDesignatorSufixList]
+                  ) [Designator]
+                ) [DesignatorStmtPlus2]
+              ) [DesignatorStmtOpt]
+              ForDeclarationEnd(
+              ) [ForDeclarationEnd]
+            ) [ForHeader]
+            ListStmt(
+              Statements(
+                NoStmt(
+                ) [NoStmt]
+                PrintStmt(
+                  ExprNoMinus(
+                    Term(
+                      DesignatorFact(
+                        Designator(
+                          DesignatorName(
+                           niz
+                          ) [DesignatorName]
+                          DesignatorSufixListClass(
+                            DesignatorSufixSquare(
+                              ExprNoMinus(
+                                Term(
+                                  DesignatorFact(
+                                    Designator(
+                                      DesignatorName(
+                                       i
+                                      ) [DesignatorName]
+                                      NoDesignatorSufixList(
+                                      ) [NoDesignatorSufixList]
+                                    ) [Designator]
+                                  ) [DesignatorFact]
+                                  NoMulopFactorList(
+                                  ) [NoMulopFactorList]
+                                ) [Term]
+                                NoAddopTermList(
+                                ) [NoAddopTermList]
+                              ) [ExprNoMinus]
+                            ) [DesignatorSufixSquare]
+                            NoDesignatorSufixList(
+                            ) [NoDesignatorSufixList]
+                          ) [DesignatorSufixListClass]
+                        ) [Designator]
+                      ) [DesignatorFact]
+                      NoMulopFactorList(
+                      ) [NoMulopFactorList]
+                    ) [Term]
+                    NoAddopTermList(
+                    ) [NoAddopTermList]
+                  ) [ExprNoMinus]
+                  NoNumConstOpt(
+                  ) [NoNumConstOpt]
+                ) [PrintStmt]
+              ) [Statements]
+            ) [ListStmt]
+          ) [ForStatement]
+        ) [ForStmt]
+      ) [Statements]
+    ) [MethodDeclClass]
+  ) [MethodDeclarations]
+) [Program]
+INFO  23:00:33,582 - =================================================================================
+INFO  23:00:33,591 - ~ Obradjuje se funkcija main na liniji 6
+INFO  23:00:33,591 - * Deklarisana promenljiva: int k, na liniji 7
+INFO  23:00:33,592 - * Deklarisana promenljiva: int niz, na liniji 7
+INFO  23:00:33,592 - * Deklarisana promenljiva: int i, na liniji 7
+INFO  23:00:33,592 - * Deklarisana promenljiva: int x, na liniji 7
+INFO  23:00:33,592 - Pretraga na liniji 11 (niz), nadjeno 
+INFO  23:00:33,592 - Pretraga na liniji 12 (niz), nadjeno 
+INFO  23:00:33,592 - Pretraga na liniji 13 (niz), nadjeno 
+INFO  23:00:33,592 - Pretraga na liniji 14 (niz), nadjeno 
+INFO  23:00:33,592 - Pretraga na liniji 15 (niz), nadjeno 
+INFO  23:00:33,592 - Pretraga na liniji 16 (niz), nadjeno 
+INFO  23:00:33,592 - Pretraga na liniji 18 (x), nadjeno 
+INFO  23:00:33,592 - Pretraga na liniji 21 (niz), nadjeno 
+INFO  23:00:33,593 - Pretraga na liniji 21 (x), nadjeno 
+INFO  23:00:33,593 - Pretraga na liniji 23 (i), nadjeno 
+INFO  23:00:33,593 - Pretraga na liniji 23 (i), nadjeno 
+INFO  23:00:33,593 - Pretraga na liniji 23 (len), nadjeno 
+INFO  23:00:33,593 - Pretraga na liniji 23 (niz), nadjeno 
+INFO  23:00:33,593 - Pretraga na liniji 23, pronadjen poziv funkcije: len
+INFO  23:00:33,593 - Pretraga na liniji 23 (i), nadjeno 
+INFO  23:00:33,594 - Pretraga na liniji 24 (niz), nadjeno 
+INFO  23:00:33,594 - Pretraga na liniji 24 (i), nadjeno 
+INFO  23:00:33,594 - 
+
+------ Parsiranje uspesno zavrseno! ------
+
+INFO  23:00:33,594 - 
+Generating bytecode file: C:\Users\Ana\Desktop\PP1 projekat\workspace\MJCompiler\test\program.obj

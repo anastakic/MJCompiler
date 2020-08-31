@@ -1,0 +1,52 @@
+//predefined functions
+
+program syntaxTest06
+    int x;
+    char c;
+    bool b;
+    const int one = 1;
+    const int two = 2;
+    const int three = 3;
+    int arr[];
+{
+    void main()
+    {
+        read(x);
+        read(c);
+        read(b);
+        read(one);    //expected variable
+        read(arr);       //expected simple type
+
+        print(x);
+        print(c);
+        print(b);
+        print(arr[x]);
+        print(one);
+
+        print(x, 5);
+        print(c, 5);
+        print(b, 5);
+
+        len(arr);
+        len(x);           //error expected array
+        len(c);           //error expected array
+        len(b);           //error expected array
+
+        chr(x);
+        chr(arr[x]);
+        chr(one);
+
+        chr(arr);          //error expected int
+        chr(c);            //error expected int
+        chr(b);            //error expected int
+
+        ord(c);
+        ord(eol);
+
+        ord(x);               //error expected char
+        ord(b);               //error expected char
+        ord(arr);             //error expected char
+        ord(one);          //error expected char
+        ord(arr[x]);            //error expected char
+    }
+}

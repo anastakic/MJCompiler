@@ -1,0 +1,12 @@
+//should test function definitions
+program syntaxTest04
+    const int x = 5;
+    int i;
+{
+    
+    void main()
+    {
+		i = % 2;
+    }
+}
+

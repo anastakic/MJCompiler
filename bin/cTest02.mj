@@ -1,0 +1,103 @@
+program P
+	const int size = 10;
+	
+	class X{
+		int x;
+		{
+		int xFja(){
+			return x;
+		}
+		}
+	}
+	
+	class Y extends X{
+		int y;
+		{
+		int yFja(){
+			y = xFja();
+			return y;
+		}
+		}
+	}
+	
+	abstract class Tab{
+		int size;
+		{
+		abstract int getp(int i);
+		abstract int getn(int i);
+		//abstract int getSize();
+		
+		int ananan(){return 5;}
+		
+		//abstract void fjaVoidA();
+		//abstract void fjaVoidB();
+		//abstract void fjaVoidC();
+		//abstract void fjaVoidD();
+		
+		}
+		}
+		
+		
+		
+	abstract class Table extends Tab{
+		int pos[], neg[];
+		{
+		void putp (int a, int idx) { this.pos[idx]=a; }
+		void putn (int a, int idx) { this.neg[idx]=a; }
+		abstract int getp (int idx);
+		int getn (int idx) { return neg[idx]; }
+		abstract void jj();
+		}
+	}
+	
+	class Z extends Table{
+		int z;
+		{
+		int zz(){
+			z = ananan();
+			return z;
+		}
+		void jj(){
+			z = 45;
+		}
+		int getp (int idx){
+			return 4;
+		}
+		}
+	
+	}
+	Z val;
+	{
+	
+	void f(char ch, int a, int arg)
+		int x;
+		{
+		x = arg;
+		}
+		
+	void main() int x, j; char c;
+		{
+		
+		val = new Z;
+		val.pos = new int [size];
+		val.neg = new int [size];
+		
+		for (j = 0; j<size; j++){
+			val.putp(0,j);
+			val.putn(0,j);
+		}
+		
+		f(c, x, j);
+		
+		read(x);
+		for (;x > 0;){
+			if (0 <= x && x < size){
+				val.putp(val.getp(x)+1, x);
+			}
+			else if (-size < x && x < 0){
+				val.putn(val.getn(-x)+1, x);
+			}
+			read(x);
+		}
+	}
+}

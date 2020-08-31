@@ -1,0 +1,16 @@
+//should test program advanced scope declarations for level B
+program syntaxTest03
+    const int x = 5, x2 = 10;
+    const char y = 'a', y2 = 'b';
+    int z, z2[];
+    char c[], c2[], c3;
+    bool b1;
+    bool b2[], b3;
+{
+	int fja(int %%% c, int g){
+		return 2;
+	}
+	void main(){
+		fja(1,1);
+	}
+}

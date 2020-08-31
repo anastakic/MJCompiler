@@ -1,0 +1,80 @@
+program P
+	const int size = 10;
+	const char d = ':';
+	
+	abstract class Niz{
+		int niz[];
+		{
+		void f(){}
+		void dad(){}
+		}
+	}
+	
+	
+	class M extends Niz{
+		int d;
+		{
+		void f(){
+			//dad();
+		}
+		}
+		
+	}
+	
+	class MM extends M{
+		int sizeNiz;
+		{
+		void hghg(){}
+		int getSizeNiz(){
+			sizeNiz = 15;
+			return sizeNiz;
+		}
+		void printNizMM()
+		int k;
+		{
+			k = getSizeNiz();
+			print(k);
+		}
+		}
+	}
+	
+{	
+	void main()
+	int i;
+	int j;
+	int k;
+	int pom;
+	M nizKlasa[];
+	MM klasaMM;
+	M klasaM;
+	{	
+		klasaMM = new MM;
+		klasaM = new M;
+		
+		klasaMM.hghg();
+		
+		klasaMM.printNizMM();
+		print(eol);
+		
+		nizKlasa = new M[size];
+		
+		for(j = 0; j < size; j++){
+			nizKlasa[j] = new M;
+			nizKlasa[j].niz = new int[size];
+			
+			print(j);
+			print(d);
+			
+			for(i = 0; i < size; i++){
+				nizKlasa[j].niz[i] = i*(j+1);
+			}
+			
+			for(k = 0; k < size; k++){
+				print(nizKlasa[j].niz[k]);
+			}
+			print(eol);			
+		}
+
+	}	
+}
+

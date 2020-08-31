@@ -1,0 +1,9 @@
+
+======================== SINTAKSNE GRESKE: =========================
+
+ERROR - Sintaksna greska na liniji 13
+ERROR - Uspesan oporavak od greske pri dodeli vrednosti! 
+
+======================== SEMANTICKE GRESKE: ========================
+
+ERROR - Greska na liniji 10, funkcija: main nema return iskaz!

@@ -1,0 +1,373 @@
+
+======================= BYTECODE: =======================
+codeSize=654
+dataSize=4
+mainPC=247
+0: enter 1 1
+3: enter 1 1
+6: enter 2 2
+9: load_0
+10: load_1
+11: store_0
+12: exit
+13: return
+14: enter 1 1
+17: read
+18: putfield 1
+21: exit
+22: return
+23: enter 1 1
+26: const_0
+27: exit
+28: return
+29: enter 1 1
+32: call -9 (=23)
+35: getfield 1
+38: mul
+39: exit
+40: return
+41: enter 2 2
+44: load_0
+45: load_1
+46: store_0
+47: exit
+48: return
+49: enter 1 1
+52: getfield 2
+55: exit
+56: return
+57: enter 1 1
+60: getfield 1
+63: exit
+64: return
+65: enter 2 2
+68: load_0
+69: load_1
+70: store_0
+71: const 115
+76: call -35 (=41)
+79: exit
+80: return
+81: enter 2 2
+84: load_0
+85: load_1
+86: store_0
+87: const 115
+92: putfield 2
+95: exit
+96: return
+97: enter 1 2
+100: const_4
+101: store_1
+102: load_1
+103: getfield 1
+106: const_3
+107: div
+108: mul
+109: exit
+110: return
+111: enter 2 2
+114: load_0
+115: load_1
+116: store_0
+117: const 107
+122: putfield 2
+125: exit
+126: return
+127: enter 4 4
+130: load_0
+131: load_1
+132: store_0
+133: load_0
+134: load_2
+135: store_0
+136: load_0
+137: load_3
+138: store_0
+139: const 107
+144: putfield 2
+147: exit
+148: return
+149: enter 1 2
+152: getfield 1
+155: getfield 2
+158: mul
+159: getfield 3
+162: mul
+163: store_1
+164: load_1
+165: exit
+166: return
+167: enter 1 1
+170: load_0
+171: call -122 (=49)
+174: const 115
+179: jne 7 (=186)
+182: const_1
+183: jmp 4 (=187)
+186: const_0
+187: const_0
+188: jeq 13 (=201)
+191: const 83
+196: const_5
+197: bprint
+198: jmp 34 (=232)
+201: load_0
+202: call -153 (=49)
+205: const 107
+210: jne 7 (=217)
+213: const_1
+214: jmp 4 (=218)
+217: const_0
+218: const_0
+219: jeq 13 (=232)
+222: const 75
+227: const_5
+228: bprint
+229: jmp 3 (=232)
+232: load_0
+233: call -176 (=57)
+236: const_5
+237: print
+238: const 10
+243: const_5
+244: bprint
+245: exit
+246: return
+247: enter 0 11
+250: load_0
+251: const 6
+256: newarray 1
+258: store_0
+259: load_2
+260: const 6
+265: newarray 1
+267: store_2
+268: store 4
+270: store 5
+272: store 6
+274: store 7
+276: store 8
+278: store 9
+280: load 4
+282: const_1
+283: call -218 (=65)
+286: load 5
+288: const_2
+289: call -224 (=65)
+292: load 6
+294: const_3
+295: call -230 (=65)
+298: load 7
+300: const_1
+301: const_2
+302: const_3
+303: call -176 (=127)
+306: load 8
+308: const_2
+309: const_3
+310: const_4
+311: call -184 (=127)
+314: load 9
+316: const_3
+317: const_4
+318: const_5
+319: call -192 (=127)
+322: load_0
+323: const_0
+324: load 4
+326: astore
+327: load_0
+328: const_2
+329: load 5
+331: astore
+332: load_0
+333: const_4
+334: load 6
+336: astore
+337: load_0
+338: const_1
+339: load 7
+341: astore
+342: load_0
+343: const_3
+344: load 8
+346: astore
+347: load_0
+348: const_5
+349: load 9
+351: astore
+352: read
+353: store 10
+355: const_0
+356: store_3
+357: load_3
+358: const 6
+363: jge 7 (=370)
+366: const_1
+367: jmp 4 (=371)
+370: const_0
+371: const_1
+372: jne 30 (=402)
+375: jmp 10 (=385)
+378: load_3
+379: const_1
+380: add
+381: store_3
+382: jmp -25 (=357)
+385: load_0
+386: load_3
+387: aload
+388: load 10
+390: call -384 (=6)
+393: load_2
+394: load_3
+395: load_0
+396: load_3
+397: aload
+398: astore
+399: jmp -21 (=378)
+402: const_0
+403: putstatic 1
+406: const_0
+407: putstatic 3
+410: const_1
+411: store_3
+412: load_3
+413: const 6
+418: jgt 7 (=425)
+421: const_1
+422: jmp 4 (=426)
+425: const_0
+426: const_1
+427: jne 76 (=503)
+430: jmp 10 (=440)
+433: load_3
+434: const_1
+435: add
+436: store_3
+437: jmp -25 (=412)
+440: load_3
+441: const_2
+442: rem
+443: const_0
+444: jne 7 (=451)
+447: const_1
+448: jmp 4 (=452)
+451: const_0
+452: const_0
+453: jeq 9 (=462)
+456: jmp -23 (=433)
+459: jmp 3 (=462)
+462: getstatic 1
+465: load_2
+466: load_3
+467: const_1
+468: sub
+469: aload
+470: call -470 (=0)
+473: add
+474: putstatic 1
+477: getstatic 3
+480: load_2
+481: load_3
+482: const_1
+483: sub
+484: aload
+485: call -482 (=3)
+488: add
+489: putstatic 3
+492: load_0
+493: load_3
+494: const_1
+495: sub
+496: aload
+497: call -330 (=167)
+500: jmp -67 (=433)
+503: const_0
+504: putstatic 0
+507: const_0
+508: putstatic 2
+511: const_1
+512: store_3
+513: load_3
+514: const 6
+519: jgt 7 (=526)
+522: const_1
+523: jmp 4 (=527)
+526: const_0
+527: const_1
+528: jne 76 (=604)
+531: jmp 10 (=541)
+534: load_3
+535: const_1
+536: add
+537: store_3
+538: jmp -25 (=513)
+541: load_3
+542: const_2
+543: rem
+544: const_1
+545: jne 7 (=552)
+548: const_1
+549: jmp 4 (=553)
+552: const_0
+553: const_0
+554: jeq 9 (=563)
+557: jmp -23 (=534)
+560: jmp 3 (=563)
+563: getstatic 0
+566: load_0
+567: load_3
+568: const_1
+569: sub
+570: aload
+571: call -548 (=23)
+574: add
+575: putstatic 0
+578: getstatic 2
+581: load_0
+582: load_3
+583: const_1
+584: sub
+585: aload
+586: call -557 (=29)
+589: add
+590: putstatic 2
+593: load_0
+594: load_3
+595: const_1
+596: sub
+597: aload
+598: call -431 (=167)
+601: jmp -67 (=534)
+604: getstatic 1
+607: const_5
+608: print
+609: const 10
+614: const_5
+615: bprint
+616: getstatic 0
+619: const_5
+620: print
+621: const 10
+626: const_5
+627: bprint
+628: getstatic 3
+631: const_5
+632: print
+633: const 10
+638: const_5
+639: bprint
+640: getstatic 2
+643: const_5
+644: print
+645: const 10
+650: const_5
+651: bprint
+652: exit
+653: return
+
+-- exception at address 273: expression stack underflow
+
+Completion took 0 ms

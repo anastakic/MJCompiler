@@ -1,0 +1,9 @@
+
+======================== SINTAKSNE GRESKE: =========================
+
+ERROR - Sintaksna greska na liniji 10
+ERROR - Uspesan oporavak od greske pri deklaraciji formalnih parametara funkcije! 
+
+======================== SEMANTICKE GRESKE: ========================
+
+ERROR - Greska na liniji 14, veci broj parametara od potrebnog za poziv funkcije: fja

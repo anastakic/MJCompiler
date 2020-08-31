@@ -1,0 +1,87 @@
+
+======================= BYTECODE: =======================
+codeSize=112
+dataSize=0
+mainPC=24
+0: enter 2 2
+3: enter 2 4
+6: load_0
+7: getfield 1
+10: load_0
+11: const_0
+12: aload
+13: aload
+14: add
+15: load_1
+16: add
+17: exit
+18: return
+19: enter 1 1
+22: exit
+23: return
+24: enter 0 4
+27: store_0
+28: load_0
+29: const_5
+30: newarray 1
+32: store_0
+33: load_0
+34: const_5
+35: newarray 1
+37: store_0
+38: store_1
+39: load_1
+40: load_0
+41: store_1
+42: load_1
+43: const_5
+44: newarray 1
+46: store_1
+47: load_3
+48: const_3
+49: newarray 1
+51: store_3
+52: load_1
+53: const_1
+54: store_1
+55: const_0
+56: store_2
+57: load_2
+58: const_5
+59: jge 7 (=66)
+62: const_1
+63: jmp 4 (=67)
+66: const_0
+67: const_1
+68: jne 28 (=96)
+71: jmp 10 (=81)
+74: load_2
+75: const_1
+76: add
+77: store_2
+78: jmp -21 (=57)
+81: load_1
+82: load_2
+83: const_3
+84: astore
+85: load_1
+86: load_2
+87: const 7
+92: astore
+93: jmp -19 (=74)
+96: load_1
+97: load_1
+98: const_0
+99: aload
+100: aload
+101: call -98 (=3)
+104: const_5
+105: print
+106: load_1
+107: call -88 (=19)
+110: exit
+111: return
+
+-- exception at address 27: expression stack underflow
+
+Completion took 0 ms

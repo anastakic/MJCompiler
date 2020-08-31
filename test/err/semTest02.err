@@ -1,0 +1,11 @@
+
+======================== SINTAKSNE GRESKE: =========================
+
+
+======================== SEMANTICKE GRESKE: ========================
+
+ERROR - Greska na liniji 11, tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije!f1
+ERROR - Greska na liniji 14, funkcija: f2 nema return iskaz!
+ERROR - Greska na liniji 21, tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije!f3
+ERROR - Greska na liniji 26, tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije!f4
+ERROR - Greska na liniji 31, tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije!f5

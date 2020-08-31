@@ -1,0 +1,16 @@
+
+======================== SINTAKSNE GRESKE: =========================
+
+ERROR - Sintaksna greska na liniji 13
+ERROR - Uspesan oporavak od greske pri deklaraciji prosirenja klase! 
+ERROR - Sintaksna greska na liniji 30
+ERROR - Uspesan oporavak od greske pri deklaraciji metoda apstraktne klase! 
+
+======================== SEMANTICKE GRESKE: ========================
+
+ERROR - Greska na liniji 17, ime: xFja nije deklarisano! 
+ERROR - Greska na liniji 17, ime: noObj nije funkcija!
+ERROR - Greska na liniji 17, nekompatibilni tipovi u dodeli vrednosti!
+ERROR - Greska na liniji 27, ime: xFja nije deklarisano! 
+ERROR - Greska na liniji 27, ime: noObj nije funkcija!
+ERROR - Greska na liniji 27, nekompatibilni tipovi u dodeli vrednosti!

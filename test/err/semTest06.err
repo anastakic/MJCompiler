@@ -1,0 +1,18 @@
+
+======================== SINTAKSNE GRESKE: =========================
+
+
+======================== SEMANTICKE GRESKE: ========================
+
+ERROR - Greska na liniji 18, operand instrukcije READ mora biti char ili int ili bool tipa
+ERROR - Greska na liniji 31, nekompatibilni parametri arr na liniji 31
+ERROR - Greska na liniji 32, nekompatibilni parametri arr na liniji 32
+ERROR - Greska na liniji 33, nekompatibilni parametri arr na liniji 33
+ERROR - Greska na liniji 39, nekompatibilni parametri i na liniji 39
+ERROR - Greska na liniji 40, nekompatibilni parametri i na liniji 40
+ERROR - Greska na liniji 41, nekompatibilni parametri i na liniji 41
+ERROR - Greska na liniji 46, nekompatibilni parametri ch na liniji 46
+ERROR - Greska na liniji 47, nekompatibilni parametri ch na liniji 47
+ERROR - Greska na liniji 48, nekompatibilni parametri ch na liniji 48
+ERROR - Greska na liniji 49, nekompatibilni parametri ch na liniji 49
+ERROR - Greska na liniji 50, nekompatibilni parametri ch na liniji 50

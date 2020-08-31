@@ -1,0 +1,39 @@
+program P
+
+
+	class X{
+		int x;
+		{
+		int xFja(){
+			return x;
+		}
+		}
+	}
+	
+	class Y extends X, X{
+		int y;
+		{
+		int yFja(){
+			y = xFja();
+			return y;
+		}
+		}
+	}
+	
+	abstract class Z extends Y{
+		int z;
+		{
+		int zz(){
+			z = xFja();
+			return z;
+		}
+		abstract int % errMethod();
+		}
+	
+	}
+{
+	void main(){
+		
+	}
+
+}
